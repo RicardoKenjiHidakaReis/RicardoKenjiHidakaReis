@@ -1,5 +1,5 @@
 # Oi, eu sou o Ricardo Kenji👋:
-<br><br>1º semestre de Ciência da Computação — CESUPA<br><br>Atualmente estou construindo minha base em Computação <br><br>##  
+1º semestre de Ciência da Computação — CESUPA<br><br>Atualmente estou construindo minha base em Computação <br><br>  
 
 ## 📚 Área de aprendizado<br><br>C<br><br>Python<br>
 
