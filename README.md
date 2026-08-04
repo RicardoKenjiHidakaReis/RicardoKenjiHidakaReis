@@ -1,6 +1,7 @@
-# 💫 About Me:
-Oi, eu sou o Ricardo Kenji👋<br><br>1º semestre de Ciência da Computação — CESUPA<br><br>Atualmente estou construindo minha base em Computação <br><br>## 🎯 Áreas de interesse<br><br>Desenvolvimento de Software<br><br>Inteligência Artificial<br><br>Redes<br><br>Dados<br><br>## 📚 Área de aprendizado<br><br>C<br><br>Python<br>
+# Oi, eu sou o Ricardo Kenji👋:
+<br><br>1º semestre de Ciência da Computação — CESUPA<br><br>Atualmente estou construindo minha base em Computação <br><br>##  
 
+## 📚 Área de aprendizado<br><br>C<br><br>Python<br>
 
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ricardo-kenji-146a223a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rcrdknj@gmail.com) 
