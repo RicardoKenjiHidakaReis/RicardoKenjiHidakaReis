@@ -1,4 +1,4 @@
-Oi, eu sou o Ricardo 👋
+### Oi, eu sou o Ricardo 👋
 
 Estudante de Ciência da Computação (1º semestre) na CESUPA, em Belém-PA. Ainda construindo a base — sem forçar experiência que não tenho.
 
