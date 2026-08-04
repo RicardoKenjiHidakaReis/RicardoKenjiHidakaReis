@@ -1,20 +1,16 @@
-## Hi there 👋
-- Ricardo Kenji Hidaka dos Reis
-- Ciência da Computação / CC1TA
-- Tenho interesse em aprender Desenvolvimento de Software / I.A / Rede / Dados
-- Objetivo: Avançar os conhecimentos básicos da progrmação
+Oi, eu sou o Ricardo Kenji Hidaka dos Reis👋
 
-<!--
-**RicardoKenjiHidakaReis/RicardoKenjiHidakaReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação (1º semestre) na CESUPA, em Belém-PA.
 
-Here are some ideas to get you started:
+🎯 Áreas de interesse
+Desenvolvimento de Software
+Inteligência Artificial
+Redes
+Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Área de aprendizado
+C Python
+
+📫 Como falar comigo
+LinkedIn: [adicionar link]
+Email: [adicionar email]
